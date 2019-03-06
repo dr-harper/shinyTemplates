@@ -1,2 +1,5 @@
-# shinyTemplates
-Personal templates used for developing shiny apps
+README
+
+# map-panel
+
+![cover-images/map-panel.jpg]()
